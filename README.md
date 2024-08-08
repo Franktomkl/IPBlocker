@@ -22,7 +22,7 @@ Asegúrate de tener Python 3.x instalado. Luego, instala las dependencias necesa
 pip install paramiko pandas
 Ejecuta el script y sigue las indicaciones en pantalla para proporcionar la información necesaria, como la IP del servidor remoto, el nombre de usuario, la contraseña y el rango de IPs comprometidas.
 
-python isolate_ips.py
+python3 isolate_ips.py
 
 Introduce los Detalles:
 
@@ -50,7 +50,7 @@ Logs recolectados y analizados con éxito.
 
 
 ## Uso del Script de Desbloqueo
-python unblock_ips.py
+python3 unblock_ips.py
 
 
 🤝 Contribuir
