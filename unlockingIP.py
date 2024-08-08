@@ -3,7 +3,7 @@ import getpass
 import logging
 from ipaddress import ip_address, IPv4Address
 from concurrent.futures import ThreadPoolExecutor
-
+#autor Ltomxd
 # Configurar el logging
 logging.basicConfig(filename='incident_response.log', level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
