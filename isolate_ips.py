@@ -5,7 +5,7 @@ from ipaddress import ip_address, IPv4Address
 from concurrent.futures import ThreadPoolExecutor
 import pandas as pd
 import os
-
+#autor Ltomxd
 # Configurar el logging
 logging.basicConfig(filename='incident_response.log', level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
