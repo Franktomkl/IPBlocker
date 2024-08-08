@@ -49,6 +49,10 @@ Máquina con IP 192.168.1.101 ha sido aislada.
 Logs recolectados y analizados con éxito.
 
 
+## Uso del Script de Desbloqueo
+python unblock_ips.py
+
+
 🤝 Contribuir
 ¡Acepto contribuciones! Por favor, haz un fork del repositorio y envía un pull request.
 
